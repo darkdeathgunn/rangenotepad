@@ -1,5 +1,5 @@
 # rangenotepad
-##A simple interactive and responsive web app to take notes made with Java Script
+## A simple interactive and responsive web app to take notes made with Java Script
 
 1. Clone the project in a directory.
 
